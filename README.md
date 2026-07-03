@@ -1,7 +1,10 @@
-# repository
-
-## test
-
-### 2026
+# repository start
 
 > 07/01
+
+
+# actual content info
+
+## python practice
+
+## project individual backup
